@@ -1,4 +1,3 @@
-# ICS 32 Project 1
 from pathlib import Path
 import shutil
 firstInput = input()
