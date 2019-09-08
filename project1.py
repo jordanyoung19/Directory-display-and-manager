@@ -1,5 +1,6 @@
 from pathlib import Path
 import shutil
+
 firstInput = input()
 step1Lst = ['D', 'R']
 searchCharLst = ['A', 'N ', 'E ', 'T ', '< ', '> ']
